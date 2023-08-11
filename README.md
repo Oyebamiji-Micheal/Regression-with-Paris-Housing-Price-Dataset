@@ -7,7 +7,7 @@
 - [Overview](#overview)
 - [Objective](#objective)
 - [Dataset](#dataset)
-- [Notebook Work-through](#notebook)
+- [Notebook Walk-through](#notebook)
 - [Model](#model)
 
 
